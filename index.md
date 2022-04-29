@@ -1,7 +1,4 @@
 ## Hi! I'm Mengshen He
-
-You can use the [editor on GitHub](https://github.com/hems354/hems354.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
 <!--
 
 Here are some ideas to get you started:
