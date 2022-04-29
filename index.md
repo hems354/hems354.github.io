@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi! I'm Mengshen He
 
 You can use the [editor on GitHub](https://github.com/hems354/hems354.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 贺孟申的个人主页
+# Mengshen He
 ## 研究经历
 ### Header 3
 
