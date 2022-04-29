@@ -2,36 +2,39 @@
 
 You can use the [editor on GitHub](https://github.com/hems354/hems354.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--
 
-### Markdown
+Here are some ideas to get you started:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-```markdown
-Syntax highlighted code block
+## About Me
+I'm a undergraduate student in NENU. I am currently a master student major in Signal and Information Processing at Shaanxi Normal University.<br>
+Email: 1094617242@qq.com, 17703809837@163.com <br>
 
-# Mengshen He
-## 研究经历
-### Header 3
+## Research Interest
+Deep Learning, Machine Learning, Functional Brain Network
 
-- Bulleted
-- List
+## Some Repositories About ML
+.......
 
-1. Numbered
-2. List
+## Work Experience
+2018.7-2019.5 Equipment Engineer at BOE
 
-**Bold** and _Italic_ and `Code` text
+## Representative Papers 
+.......
 
-[Link](url) and ![Image](src)
-```
+## Education
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hems354/hems354.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 2014-2018 <br>
+  NENU<br>
+- 2020-2023 <br>
+  Master of Engineering; Shaanxi Normal University (SNNU)
