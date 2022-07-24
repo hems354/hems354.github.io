@@ -26,6 +26,6 @@ Deep Learning, Machine Learning, Functional Brain Network
 ## Education
 
 - 2014-2018 <br>
-  Bachelor of Northeast Normal University (NENU)<br>
+  Northeast Normal University (NENU)<br>
 - 2020-2023 <br>
   Master of Engineering; Shaanxi Normal University (SNNU)
