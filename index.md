@@ -19,9 +19,9 @@ Deep Learning, Machine Learning, Functional Brain Network
 
 ## Representative Papers 
 
-1，**Mengshen He**, Xiangyu Hou, Zhenwei Wang, Zili Kang, Xin Zhang, Ning Qiang, Bao Ge.  Multi-head Attention-based Masked Sequence Model for Mapping Functional Brain Networks.   MICCAI 2022（顶会）
+1，**Mengshen He**, Xiangyu Hou, Zhenwei Wang, Zili Kang, Xin Zhang, Ning Qiang, Bao Ge.  Multi-head Attention-based Masked Sequence Model for Mapping Functional Brain Networks.   MICCAI 2022
 
-2，Zhenwei Wang, Yifan Lv, **Mengshen He**, Enjie Ge, Ning Qiang, Bao Ge.  Accurate Corresponding Fiber Tract Segmentation via FiberGeoMap Learner.   MICCAI 2022（顶会）
+2，Zhenwei Wang, Yifan Lv, **Mengshen He**, Enjie Ge, Ning Qiang, Bao Ge.  Accurate Corresponding Fiber Tract Segmentation via FiberGeoMap Learner.   MICCAI 2022
 
 ## Education
 
