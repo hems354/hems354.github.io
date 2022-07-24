@@ -11,7 +11,7 @@ Deep Learning, Machine Learning, Functional Brain Network
 
 ## Some Repositories 
 
-.......
+...
 
 ## Work Experience
 
