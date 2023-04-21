@@ -24,6 +24,7 @@ Deep Learning, Machine Learning, Functional Brain Network
 2，Zhenwei Wang, Yifan Lv, **Mengshen He**, Enjie Ge, Ning Qiang, Bao Ge.  Accurate Corresponding Fiber Tract Segmentation via FiberGeoMap Learner.   MICCAI 2022. LNCS, vol 13431. pp 143–152. 
 
 3,   刘正梁, **贺孟申**, 姜作伟, 吴子豪, 戴海星, 张练, 罗思一, 韩甜乐, 李响, 蒋希, 朱大江, 蔡晓妍, 葛宝, 刘伟, 刘军, 沈定刚, 刘天明. 自然语言处理在医学影像分析中的应用[J]. 中南大学学报(医学版), 2022, 47(8): 981-993. 
+
 4，Zhenwei Wang, **Mengshen He**, Yifan Lv, Enjie Ge, Shu Zhang, Ning Qiang, Tianming Liu, Fan Zhang, Xiang Li, Bao Ge, Accurate corresponding fiber tract segmentation via FiberGeoMap learner with application to autism, Cerebral Cortex, 2023;, bhad125, https://doi.org/10.1093/cercor/bhad125
 
 
