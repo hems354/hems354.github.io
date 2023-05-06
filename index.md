@@ -27,6 +27,8 @@ Deep Learning, Machine Learning, Functional Brain Network
 
 4，Zhenwei Wang, **Mengshen He**, Yifan Lv, Enjie Ge, Shu Zhang, Ning Qiang, Tianming Liu, Fan Zhang, Xiang Li, Bao Ge, Accurate corresponding fiber tract segmentation via FiberGeoMap learner with application to autism, *Cerebral Cortex*, 2023, bhad125. (co-first author).
 
+5，**Mengshen He**, Xiangyu Hou, Enjie Ge, Zhenwei Wang, Zili Kang, Ning Qiang, Xin Zhang and Bao Ge.  Multi-head attention-based masked sequence model for mapping functional brain networks. Frontiers in Neuroscience. 2023,  17:1183145. 
+
 ## Education
 
 - 2014-2018 <br>
