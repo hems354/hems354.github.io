@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a undergraduate student in NENU. I am currently a master student major in Signal and Information Processing at Shaanxi Normal University.<br>
+I received a bachelor's degree in engineering from Northeast Normal University and a master's degree in engineering from Shaanxi Normal University. I am currently a doctoral candidate in computer science and technology at Central South University.<br>
 Email: 1094617242@qq.com, 17703809837@163.com,hems@snnu.edu.cn <br>
 
 ## Research Interest
