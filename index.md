@@ -27,7 +27,7 @@ Deep Learning, Machine Learning, Functional Brain Network
 
 4,   刘正梁, **贺孟申**, 姜作伟, 吴子豪, 戴海星, 张练, 罗思一, 韩甜乐, 李响, 蒋希, 朱大江, 蔡晓妍, 葛宝, 刘伟, 刘军, 沈定刚, 刘天明. 自然语言处理在医学影像分析中的应用[J]. 中南大学学报(医学版), 2022, 47(8): 981-993. 
 
-5，Zhenwei Wang, **Mengshen He**, Yifan Lv, Enjie Ge, Shu Zhang, Ning Qiang, Tianming Liu, Fan Zhang, Xiang Li, Bao Ge, Accurate corresponding fiber tract segmentation via FiberGeoMap learner with application to autism, *Cerebral Cortex*, 2023, bhad125. (co-first author).
+5，Zhenwei Wang, **Mengshen He**, Yifan Lv, Enjie Ge, Shu Zhang, Ning Qiang, Tianming Liu, Fan Zhang, Xiang Li, Bao Ge, Accurate corresponding fiber tract segmentation via FiberGeoMap learner with application to autism, *Cerebral Cortex*, 2023, bhad125. **(co-first author)**.
 
 6，Yifan Lv, Zili Kang, Tianle Han, **Mengshen He**, Ruhai Du, Tuo Zhang, Tianming Liu, Bao Ge. Brain regions always connect with each other via the shortest paths. Cerebral Cortex. 
 
@@ -38,4 +38,6 @@ Deep Learning, Machine Learning, Functional Brain Network
 - 2014-2018 <br>
   Northeast Normal University (NENU)<br>
 - 2020-2023 <br>
-  Master of Engineering; Shaanxi Normal University (SNNU)
+  Master of Engineering, Shaanxi Normal University (SNNU)
+- 2023-Now <br>
+  Doctor of Engineering; Central South University (CSU)
