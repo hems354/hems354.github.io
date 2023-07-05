@@ -40,4 +40,4 @@ Deep Learning, Machine Learning, Functional Brain Network
 - 2020-2023 <br>
   Master of Engineering, Shaanxi Normal University (SNNU)
 - 2023-Now <br>
-  Doctor of Engineering; Central South University (CSU)
+  Doctor of Engineering, Central South University (CSU)
