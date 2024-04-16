@@ -33,11 +33,11 @@ Deep Learning, Machine Learning, Functional Brain Network
 
 7，Zili Kang, Yifan Lv, **Mengshen He**, Yiheng Liu, Tianming Liu, Bao Ge Brain Surface Can Predict Fiber Connections ISBI 2023. ( Accept)
 
-8, Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, Mengshen He, Zhengliang Liu, Zihao Wu, Lin Zhao, Dajiang Zhu, Xiang Li, Ning Qiang, Dingang Shen, Tianming Liu, Bao Ge. Summary of chatgpt-related research and perspective towards the future of large language models[J]. Meta-Radiology, 2023: 100017.
+8, Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, **Mengshen He**, Zhengliang Liu, Zihao Wu, Lin Zhao, Dajiang Zhu, Xiang Li, Ning Qiang, Dingang Shen, Tianming Liu, Bao Ge. Summary of chatgpt-related research and perspective towards the future of large language models[J]. Meta-Radiology, 2023: 100017.
 
-9, Ning Qiang, Qinglin Dong, Heng Huang, Han Wang, Shijie Zhao, Xintao Hu, Qing Li, Wei Zhang, Yiheng Liu, Mengshen He, Bao Ge, Lin Zhao, Zihao Wu, Lu Zhang, Steven Xu, Dajiang Zhu, Xi Jiang, Tianming Liu. Deep learning in functional brain mapping and associated applications[M]//Deep Learning for Medical Image Analysis. Academic Press, 2024: 395-423.
+9, Ning Qiang, Qinglin Dong, Heng Huang, Han Wang, Shijie Zhao, Xintao Hu, Qing Li, Wei Zhang, Yiheng Liu, **Mengshen He**, Bao Ge, Lin Zhao, Zihao Wu, Lu Zhang, Steven Xu, Dajiang Zhu, Xi Jiang, Tianming Liu. Deep learning in functional brain mapping and associated applications[M]//Deep Learning for Medical Image Analysis. Academic Press, 2024: 395-423.
 
-10, Yiheng Liu, Enjie Ge, Mengshen He, Zhengliang Liu, Shijie Zhao, Xintao Hu, Ning Qiang, Dajiang Zhu, Tianming Liu, Bao Ge. Mapping dynamic spatial patterns of brain function with spatial-wise attention[J]. Journal of Neural Engineering, 2024.
+10, Yiheng Liu, Enjie Ge, **Mengshen He**, Zhengliang Liu, Shijie Zhao, Xintao Hu, Ning Qiang, Dajiang Zhu, Tianming Liu, Bao Ge. Mapping dynamic spatial patterns of brain function with spatial-wise attention[J]. Journal of Neural Engineering, 2024.
 
 ## Education
 
