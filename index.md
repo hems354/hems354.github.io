@@ -3,7 +3,7 @@
 ## About Me
 
 I received a bachelor's degree in engineering from Northeast Normal University and a master's degree in engineering from Shaanxi Normal University. I am currently a doctoral candidate in computer science and technology at Central South University.<br>
-Email: 1094617242@qq.com, 17703809837@163.com,hems@snnu.edu.cn <br>
+Email: 1094617242@qq.com,hems@snnu.edu.cn,mengshen_he@csu.edu.cn <br>
 
 ## Research Interest
 
@@ -32,6 +32,12 @@ Deep Learning, Machine Learning, Functional Brain Network
 6，Yifan Lv, Zili Kang, Tianle Han, **Mengshen He**, Ruhai Du, Tuo Zhang, Tianming Liu, Bao Ge. Brain regions always connect with each other via the shortest paths. Cerebral Cortex. 
 
 7，Zili Kang, Yifan Lv, **Mengshen He**, Yiheng Liu, Tianming Liu, Bao Ge Brain Surface Can Predict Fiber Connections ISBI 2023. ( Accept)
+
+8, Liu Y, Han T, Ma S, et al. Summary of chatgpt-related research and perspective towards the future of large language models[J]. Meta-Radiology, 2023: 100017.
+
+9, Qiang N, Dong Q, Huang H, et al. Deep learning in functional brain mapping and associated applications[M]//Deep Learning for Medical Image Analysis. Academic Press, 2024: 395-423.
+
+10, Liu Y, Ge E, He M, et al. Mapping dynamic spatial patterns of brain function with spatial-wise attention[J]. Journal of Neural Engineering, 2024.
 
 ## Education
 
