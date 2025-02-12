@@ -39,6 +39,10 @@ Deep Learning, Machine Learning, Functional Brain Network
 
 10, Yiheng Liu, Enjie Ge, **Mengshen He**, Zhengliang Liu, Shijie Zhao, Xintao Hu, Ning Qiang, Dajiang Zhu, Tianming Liu, Bao Ge. Mapping dynamic spatial patterns of brain function with spatial-wise attention[J]. Journal of Neural Engineering, 2024.
 
+11, Tianle Han, Yifan Lv, **Mengshen He**, Yiheng Liu, Tianming Liu, Bao Ge. Brain Cortical Surface Can Predict Fiber Trajectories[C]//2024 IEEE International Symposium on Biomedical Imaging (ISBI). IEEE, 2024: 1-4.
+
+12, Hailin Yue, Jin Liu, Lina Zhao, Hulin Kuang, Jianhong Cheng, Junjian Li, **Mengshen He**, Jie Gong, Jianxin Wang. A2HTL: An Automated Hybrid Transformer Based Learning for Predicting Survival of Esophageal Cancer Using CT Images[J]. IEEE Transactions on NanoBioscience, 2024.
+
 ## Education
 
 - 2014-2018 <br>
