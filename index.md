@@ -2,7 +2,7 @@
 
 ## About Me
 
-I received a bachelor's degree in engineering from Northeast Normal University and a master's degree in engineering from Shaanxi Normal University. I am currently a doctoral candidate in computer science and technology at Central South University.<br>
+I received a bachelor's degree in engineering from Northeast Normal University and a master's degree in engineering from Shaanxi Normal University. I am currently a Phd student in computer science and technology at Central South University.<br>
 Email: 1094617242@qq.com,hems@snnu.edu.cn,mengshen_he@csu.edu.cn <br>
 
 ## Research Interest
