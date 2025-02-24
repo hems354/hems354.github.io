@@ -9,10 +9,6 @@ Email: 1094617242@qq.com,hems@snnu.edu.cn,mengshen_he@csu.edu.cn <br>
 
 Deep Learning, Machine Learning, Functional Brain Network
 
-## Some Repositories 
-
-.......
-
 ## Work Experience
 
 2018.7-2019.5 Equipment Engineer at BOE
