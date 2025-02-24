@@ -44,6 +44,6 @@ Deep Learning, Machine Learning, Functional Brain Network
 - 2014-2018 <br>
   Northeast Normal University (NENU)<br>
 - 2020-2023 <br>
-  Master of Engineering, Shaanxi Normal University (SNNU)
+  Shaanxi Normal University (SNNU)
 - 2023-Now <br>
-  Doctor of Engineering, Central South University (CSU)
+  Central South University (CSU)
