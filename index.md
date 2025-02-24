@@ -31,7 +31,7 @@ Deep Learning, Machine Learning, Functional Brain Network
 
 6，Yifan Lv, Zili Kang, Tianle Han, **Mengshen He**, Ruhai Du, Tuo Zhang, Tianming Liu, Bao Ge. Brain regions always connect with each other via the shortest paths. Cerebral Cortex. 
 
-7，Zili Kang, Yifan Lv, **Mengshen He**, Yiheng Liu, Tianming Liu, Bao Ge Brain Surface Can Predict Fiber Connections ISBI 2023. ( Accept)
+7，Zili Kang, Yifan Lv, **Mengshen He**, Yiheng Liu, Tianming Liu, Bao Ge Brain Surface Can Predict Fiber Connections ISBI 2023.
 
 8, Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, **Mengshen He**, Zhengliang Liu, Zihao Wu, Lin Zhao, Dajiang Zhu, Xiang Li, Ning Qiang, Dingang Shen, Tianming Liu, Bao Ge. Summary of chatgpt-related research and perspective towards the future of large language models[J]. Meta-Radiology, 2023: 100017.
 
