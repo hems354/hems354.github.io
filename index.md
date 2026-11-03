@@ -48,8 +48,8 @@ description: Ph.D. student at Central South University. Research in brain networ
     <p class="authors"><strong>Mengshen He</strong>, Jin Liu, Hulin Kuang, Xu Tian, Hailin Yue, Junjian Li, Xinyu Li, Bin Guo, Jianxin Wang</p>
     <p class="venue">IEEE Transactions on Computational Social Systems, 13(4): 4666-4676, 2026 <a class="doi" href="https://doi.org/10.1109/tcss.2026.3698820">DOI ↗</a></p>
   </li>
-  <li class="publication">
-    <div class="pub-meta"><span>2026</span><span class="role">First author</span></div>
+  <li class="publication" id="jcst-hypergraph-survey">
+    <div class="pub-meta"><span>2026</span><span class="role">First author · Journal article</span></div>
     <h4><a href="https://doi.org/10.1007/s11390-025-5199-0">Applications of Hypergraph Learning for Brain Disorder Diagnosis with Neuroimaging: A Survey</a></h4>
     <p class="authors"><strong>Meng-Shen He</strong>, Xu Tian, Jun-Jian Li, Hai-Lin Yue, Xin-Yu Li, Hu-Lin Kuang, Hanhe Lin, Zhen Qiu, Jin Liu</p>
     <p class="venue">Journal of Computer Science and Technology, 41(2): 621-637, 2026 <a class="doi" href="https://doi.org/10.1007/s11390-025-5199-0">DOI ↗</a></p>
@@ -174,14 +174,19 @@ description: Ph.D. student at Central South University. Research in brain networ
   </ol>
   <h3 class="group-title" id="books">Books &amp; book chapters</h3>
   <ol class="publications">
+  <li class="publication" id="hypergraph-book-chapter">
+    <div class="pub-meta"><span>2026</span><span class="role">First author · Book chapter</span></div>
+    <h4><a href="https://doi.org/10.1201/9781003518754-16">Applications of Hypergraph Learning for Brain Disorder Diagnosis with Neuroimaging: A Survey</a></h4>
+    <p class="authors"><strong>Mengshen He</strong>, Jianxin Wang, Jin Liu</p>
+    <p class="venue">In <em>AI in MRI-based Brain Disease Prediction</em>, CRC Press: 296-327, 2026 <a class="doi" href="https://doi.org/10.1201/9781003518754-16">Chapter DOI ↗</a></p>
+  </li>
   <li class="publication">
     <div class="pub-meta"><span>2026</span><span class="role">Contributing author</span></div>
     <h4><a href="https://www.routledge.com/AI-in-MRI-based-Brain-Disease-Prediction/Liu-Wang-Pan/p/book/9781032828718">AI in MRI-based Brain Disease Prediction</a></h4>
-    <p class="authors">Edited by Jin Liu, Jianxin Wang, and Yi Pan. <strong>Mengshen He</strong> contributed to the following chapters:</p>
+    <p class="authors">Edited by Jin Liu, Jianxin Wang, and Yi Pan. Additional chapters co-authored by <strong>Mengshen He</strong>:</p>
     <ul class="chapter-contributions">
       <li>Technical Foundations</li>
       <li>Alzheimer's Disease Diagnosis Methods Based on Biomedical Data</li>
-      <li>Applications of Hypergraph Learning for Brain Disorder Diagnosis with Neuroimaging: A Survey</li>
     </ul>
     <p class="venue">CRC Press, 1st edition, 2026 · ISBN 9781032828718</p>
   </li>
@@ -200,13 +205,6 @@ description: Ph.D. student at Central South University. Research in brain networ
     <h4><a href="https://arxiv.org/abs/2507.21922">SwinECAT: A Transformer-based fundus disease classification model with Shifted Window Attention and Efficient Channel Attention</a></h4>
     <p class="authors">Peiran Gu, Teng Yao, <strong>Mengshen He</strong>, Fuhao Duan, Feiyan Liu, RenYuan Peng, Bao Ge</p>
     <p class="venue">arXiv:2507.21922, 2025 <a class="doi" href="https://arxiv.org/abs/2507.21922">arXiv ↗</a></p>
-  </li>
-  <li class="publication">
-    <div class="pub-meta"><span>2022</span><span class="role">Preprint</span></div>
-    <h4><a href="https://arxiv.org/abs/2205.09576">Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention</a></h4>
-    <p class="authors">Yiheng Liu, Enjie Ge, <strong>Mengshen He</strong>, Zhengliang Liu, Shijie Zhao, Xintao Hu, Dajiang Zhu, Tianming Liu, Bao Ge</p>
-    <p class="venue">arXiv:2205.09576, 2022 <a class="doi" href="https://arxiv.org/abs/2205.09576">arXiv ↗</a></p>
-    <p class="version-note">An expanded journal version appeared as <a href="https://doi.org/10.1088/1741-2552/ad2cea">Mapping dynamic spatial patterns of brain function with spatial-wise attention</a> in Journal of Neural Engineering (2024).</p>
   </li>
   </ol>
 </section>
