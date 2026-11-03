@@ -174,19 +174,14 @@ description: Ph.D. student at Central South University. Research in brain networ
   </ol>
   <h3 class="group-title" id="books">Books &amp; book chapters</h3>
   <ol class="publications">
-  <li class="publication" id="hypergraph-book-chapter">
-    <div class="pub-meta"><span>2026</span><span class="role">First author · Book chapter</span></div>
-    <h4><a href="https://doi.org/10.1201/9781003518754-16">Applications of Hypergraph Learning for Brain Disorder Diagnosis with Neuroimaging: A Survey</a></h4>
-    <p class="authors"><strong>Mengshen He</strong>, Jianxin Wang, Jin Liu</p>
-    <p class="venue">In <em>AI in MRI-based Brain Disease Prediction</em>, CRC Press: 296-327, 2026 <a class="doi" href="https://doi.org/10.1201/9781003518754-16">Chapter DOI ↗</a></p>
-  </li>
   <li class="publication">
     <div class="pub-meta"><span>2026</span><span class="role">Contributing author</span></div>
     <h4><a href="https://www.routledge.com/AI-in-MRI-based-Brain-Disease-Prediction/Liu-Wang-Pan/p/book/9781032828718">AI in MRI-based Brain Disease Prediction</a></h4>
-    <p class="authors">Edited by Jin Liu, Jianxin Wang, and Yi Pan. Additional chapters co-authored by <strong>Mengshen He</strong>:</p>
+    <p class="authors">Edited by Jin Liu, Jianxin Wang, and Yi Pan. <strong>Mengshen He</strong> contributed to the following chapters:</p>
     <ul class="chapter-contributions">
       <li>Technical Foundations</li>
       <li>Alzheimer's Disease Diagnosis Methods Based on Biomedical Data</li>
+      <li><a href="https://doi.org/10.1201/9781003518754-16">Applications of Hypergraph Learning for Brain Disorder Diagnosis with Neuroimaging: A Survey</a></li>
     </ul>
     <p class="venue">CRC Press, 1st edition, 2026 · ISBN 9781032828718</p>
   </li>
