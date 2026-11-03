@@ -37,8 +37,9 @@ description: Ph.D. student at Central South University. Research in brain networ
 
 <section id="publications" class="section" aria-labelledby="publications-title">
   <div class="section-heading"><p class="section-number">02 / PUBLICATIONS</p><h2 id="publications-title">Selected publications</h2></div>
-  <p class="publication-summary">I have co-authored more than 20 papers in international journals and conferences, including IEEE JBHI, CVPR, Cerebral Cortex, Medical Physics, and MICCAI. My work has received <strong>1,994 citations</strong> on <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar</a> (as of November 3, 2026). I have also contributed chapters to <em>AI in MRI-based Brain Disease Prediction</em> and <em>Deep Learning for Medical Image Analysis</em>.</p>
-  <p class="section-intro">My name is highlighted in bold. Journal and conference versions are listed separately. <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">View Google Scholar ↗</a></p>
+  <p class="summary-label" lang="zh-CN">个人学术成果总结</p>
+  <p class="publication-summary">I have co-authored more than 20 papers in international journals and conferences, including CVPR, Medical Image Analysis, IEEE JBHI, MICCAI, Cerebral Cortex, and Medical Physics. My work has received <strong>1,994 citations</strong> on <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar</a> (as of November 3, 2026). I have also contributed chapters to <em>AI in MRI-based Brain Disease Prediction</em> and <em>Deep Learning for Medical Image Analysis</em>.</p>
+  <p class="section-intro">My name is highlighted in bold. Journal and conference versions are listed separately. Preprints appear in their own section and are excluded from the published-paper count. <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">View Google Scholar ↗</a></p>
   <h3 class="group-title">First &amp; co-first author</h3>
   <ol class="publications">
   <li class="publication">
@@ -82,6 +83,18 @@ description: Ph.D. student at Central South University. Research in brain networ
   </li>
   <li class="publication">
     <div class="pub-meta"><span>2026</span></div>
+    <h4><a href="https://doi.org/10.1016/j.media.2026.104278">Dispersion-to-consolidation: Consolidating dispersed semantics via context-aware clustering for whole slide image analysis</a></h4>
+    <p class="authors">Junjian Li, Hulin Kuang, Jin Liu, <strong>Mengshen He</strong>, Hailin Yue, Jianxin Wang</p>
+    <p class="venue">Medical Image Analysis, 114: 104278, 2026 <a class="doi" href="https://doi.org/10.1016/j.media.2026.104278">DOI ↗</a></p>
+  </li>
+  <li class="publication">
+    <div class="pub-meta"><span>2026</span></div>
+    <h4><a href="https://doi.org/10.1007/978-3-032-38059-3_8">ConVL: Interpretable Concept-Guided Vision-Language MIL for Survival Analysis in Whole Slide Images</a></h4>
+    <p class="authors">Junjian Li, Hulin Kuang, Jin Liu, Hailin Yue, <strong>Mengshen He</strong>, Xinyu Li, Jianxin Wang</p>
+    <p class="venue">MICCAI 2026: 76-86 <a class="doi" href="https://doi.org/10.1007/978-3-032-38059-3_8">DOI ↗</a></p>
+  </li>
+  <li class="publication">
+    <div class="pub-meta"><span>2026</span></div>
     <h4><a href="https://doi.org/10.1109/jbhi.2025.3619935">Customized SAM-Med3D With Multi-View Representation Fusion and Age-Grade Stratified Loss for Glioma Survival Risk Prediction</a></h4>
     <p class="authors">Xinyu Li, Hulin Kuang, Jin Liu, Lanlan Wang, Pengcheng Shu, <strong>Mengshen He</strong>, Jianxin Wang</p>
     <p class="venue">IEEE Journal of Biomedical and Health Informatics, 30(5): 4260-4273, 2026 <a class="doi" href="https://doi.org/10.1109/jbhi.2025.3619935">DOI ↗</a></p>
@@ -97,6 +110,12 @@ description: Ph.D. student at Central South University. Research in brain networ
     <h4><a href="https://doi.org/10.1007/978-3-032-04927-8_36">MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis</a></h4>
     <p class="authors">Junjian Li, Jin Liu, Hulin Kuang, Hailin Yue, <strong>Mengshen He</strong>, Jianxin Wang</p>
     <p class="venue">MICCAI 2025: 376-385 <a class="doi" href="https://doi.org/10.1007/978-3-032-04927-8_36">DOI ↗</a></p>
+  </li>
+  <li class="publication">
+    <div class="pub-meta"><span>2025</span></div>
+    <h4><a href="https://doi.org/10.1007/978-3-032-05162-2_10">Bipartite Patient-Modality Graph Learning with Event-Conditional Modelling of Censoring for Cancer Survival Prediction</a></h4>
+    <p class="authors">Hailin Yue, Hulin Kuang, Jin Liu, Junjian Li, Lanlan Wang, <strong>Mengshen He</strong>, Jianxin Wang</p>
+    <p class="venue">MICCAI 2025: 98-108 <a class="doi" href="https://doi.org/10.1007/978-3-032-05162-2_10">DOI ↗</a></p>
   </li>
   <li class="publication">
     <div class="pub-meta"><span>2025</span></div>
@@ -138,7 +157,7 @@ description: Ph.D. student at Central South University. Research in brain networ
     <div class="pub-meta"><span>2023</span></div>
     <h4><a href="https://doi.org/10.1016/j.metrad.2023.100017">Summary of ChatGPT-Related research and perspective towards the future of large language models</a></h4>
     <p class="authors">Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, <strong>Mengshen He</strong>, Zhengliang Liu, Zihao Wu, Lin Zhao, Dajiang Zhu, Xiang Li, Ning Qiang, Dingang Shen, Tianming Liu, Bao Ge</p>
-    <p class="venue">Meta-Radiology, 1(2): 100017, 2023 <a class="doi" href="https://doi.org/10.1016/j.metrad.2023.100017">DOI ↗</a></p>
+    <p class="venue">Meta-Radiology, 1(2): 100017, 2023 <a class="doi" href="https://doi.org/10.1016/j.metrad.2023.100017">DOI ↗</a><a class="doi" href="https://arxiv.org/abs/2304.01852">arXiv version ↗</a></p>
   </li>
   <li class="publication">
     <div class="pub-meta"><span>2022</span></div>
@@ -153,7 +172,7 @@ description: Ph.D. student at Central South University. Research in brain networ
     <p class="venue">中南大学学报（医学版）, 47(8): 981-993, 2022 <a class="doi" href="https://doi.org/10.11817/j.issn.1672-7347.2022.220376">DOI ↗</a></p>
   </li>
   </ol>
-  <h3 class="group-title">Books &amp; book chapters</h3>
+  <h3 class="group-title" id="books">Books &amp; book chapters</h3>
   <ol class="publications">
   <li class="publication">
     <div class="pub-meta"><span>2026</span><span class="role">Contributing author</span></div>
@@ -172,6 +191,22 @@ description: Ph.D. student at Central South University. Research in brain networ
     <p class="authors">Contributed chapter 14: <a href="https://doi.org/10.1016/b978-0-32-385124-4.00025-8">Deep learning in functional brain mapping and associated applications</a></p>
     <p class="authors">Ning Qiang, Qinglin Dong, Heng Huang, Han Wang, Shijie Zhao, Xintao Hu, Qing Li, Wei Zhang, Yiheng Liu, <strong>Mengshen He</strong>, Bao Ge, Lin Zhao, Zihao Wu, Lu Zhang, Steven Xu, Dajiang Zhu, Xi Jiang, Tianming Liu</p>
     <p class="venue">Elsevier, 2nd edition · Chapter 14: 395-423, 2024 · ISBN 9780323851244 <a class="doi" href="https://doi.org/10.1016/b978-0-32-385124-4.00025-8">Chapter DOI ↗</a></p>
+  </li>
+  </ol>
+  <h3 class="group-title" id="preprints">Preprints</h3>
+  <ol class="publications">
+  <li class="publication">
+    <div class="pub-meta"><span>2025</span><span class="role">Preprint</span></div>
+    <h4><a href="https://arxiv.org/abs/2507.21922">SwinECAT: A Transformer-based fundus disease classification model with Shifted Window Attention and Efficient Channel Attention</a></h4>
+    <p class="authors">Peiran Gu, Teng Yao, <strong>Mengshen He</strong>, Fuhao Duan, Feiyan Liu, RenYuan Peng, Bao Ge</p>
+    <p class="venue">arXiv:2507.21922, 2025 <a class="doi" href="https://arxiv.org/abs/2507.21922">arXiv ↗</a></p>
+  </li>
+  <li class="publication">
+    <div class="pub-meta"><span>2022</span><span class="role">Preprint</span></div>
+    <h4><a href="https://arxiv.org/abs/2205.09576">Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention</a></h4>
+    <p class="authors">Yiheng Liu, Enjie Ge, <strong>Mengshen He</strong>, Zhengliang Liu, Shijie Zhao, Xintao Hu, Dajiang Zhu, Tianming Liu, Bao Ge</p>
+    <p class="venue">arXiv:2205.09576, 2022 <a class="doi" href="https://arxiv.org/abs/2205.09576">arXiv ↗</a></p>
+    <p class="version-note">An expanded journal version appeared as <a href="https://doi.org/10.1088/1741-2552/ad2cea">Mapping dynamic spatial patterns of brain function with spatial-wise attention</a> in Journal of Neural Engineering (2024).</p>
   </li>
   </ol>
 </section>
