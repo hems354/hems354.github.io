@@ -179,8 +179,8 @@ description: Ph.D. student at Central South University. Research in brain networ
     <h4><a href="https://www.routledge.com/AI-in-MRI-based-Brain-Disease-Prediction/Liu-Wang-Pan/p/book/9781032828718">AI in MRI-based Brain Disease Prediction</a></h4>
     <p class="authors">Edited by Jin Liu, Jianxin Wang, and Yi Pan. <strong>Mengshen He</strong> contributed to the following chapters:</p>
     <ul class="chapter-contributions">
-      <li>Technical Foundations</li>
-      <li>Alzheimer's Disease Diagnosis Methods Based on Biomedical Data</li>
+      <li><a href="https://doi.org/10.1201/9781003518754-3">Technical Foundations</a></li>
+      <li><a href="https://doi.org/10.1201/9781003518754-15">Alzheimer's Disease Diagnosis Methods Based on Biomedical Data</a></li>
       <li><a href="https://doi.org/10.1201/9781003518754-16">Applications of Hypergraph Learning for Brain Disorder Diagnosis with Neuroimaging: A Survey</a></li>
     </ul>
     <p class="venue">CRC Press, 1st edition, 2026 · ISBN 9781032828718</p>
