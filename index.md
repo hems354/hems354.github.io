@@ -37,7 +37,7 @@ description: Ph.D. student at Central South University. Research in brain networ
 
 <section id="publications" class="section" aria-labelledby="publications-title">
   <div class="section-heading"><p class="section-number">02 / PUBLICATIONS</p><h2 id="publications-title">Selected publications</h2></div>
-  <p class="publication-summary">I have co-authored more than 20 papers in international journals and conferences, including IEEE JBHI, IEEE TNB, Cerebral Cortex, Medical Physics, and MICCAI. My work has received <strong>1,994 citations</strong> on <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar</a> (as of November 3, 2026).</p>
+  <p class="publication-summary">I have co-authored more than 20 papers in international journals and conferences, including IEEE JBHI, CVPR, Cerebral Cortex, Medical Physics, and MICCAI. My work has received <strong>1,994 citations</strong> on <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar</a> (as of November 3, 2026). I have also contributed chapters to <em>AI in MRI-based Brain Disease Prediction</em> and <em>Deep Learning for Medical Image Analysis</em>.</p>
   <p class="section-intro">My name is highlighted in bold. Journal and conference versions are listed separately. <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">View Google Scholar ↗</a></p>
   <h3 class="group-title">First &amp; co-first author</h3>
   <ol class="publications">
@@ -74,6 +74,12 @@ description: Ph.D. student at Central South University. Research in brain networ
   </ol>
   <h3 class="group-title">Collaborative research</h3>
   <ol class="publications">
+  <li class="publication">
+    <div class="pub-meta"><span>2026</span></div>
+    <h4><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_Universal-to-Specific_Dynamic_Knowledge-Guided_Multiple_Instance_Learning_for_Few-Shot_Whole_Slide_CVPR_2026_paper.html">Universal-to-Specific: Dynamic Knowledge-Guided Multiple Instance Learning for Few-Shot Whole Slide Image Classification</a></h4>
+    <p class="authors">Junjian Li, Hulin Kuang, Jin Liu, Hailin Yue, <strong>Mengshen He</strong>, Jianxin Wang</p>
+    <p class="venue">IEEE/CVF CVPR 2026: 26614-26623, 2026 <a class="doi" href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_Universal-to-Specific_Dynamic_Knowledge-Guided_Multiple_Instance_Learning_for_Few-Shot_Whole_Slide_CVPR_2026_paper.html">CVF ↗</a></p>
+  </li>
   <li class="publication">
     <div class="pub-meta"><span>2026</span></div>
     <h4><a href="https://doi.org/10.1109/jbhi.2025.3619935">Customized SAM-Med3D With Multi-View Representation Fusion and Age-Grade Stratified Loss for Glioma Survival Risk Prediction</a></h4>
@@ -161,10 +167,11 @@ description: Ph.D. student at Central South University. Research in brain networ
     <p class="venue">CRC Press, 1st edition, 2026 · ISBN 9781032828718</p>
   </li>
   <li class="publication">
-    <div class="pub-meta"><span>2024</span></div>
-    <h4><a href="https://doi.org/10.1016/b978-0-32-385124-4.00025-8">Deep learning in functional brain mapping and associated applications</a></h4>
+    <div class="pub-meta"><span>2024</span><span class="role">Contributing author</span></div>
+    <h4><a href="https://shop.elsevier.com/books/deep-learning-for-medical-image-analysis/zhou/978-0-323-85124-4">Deep Learning for Medical Image Analysis</a></h4>
+    <p class="authors">Contributed chapter 14: <a href="https://doi.org/10.1016/b978-0-32-385124-4.00025-8">Deep learning in functional brain mapping and associated applications</a></p>
     <p class="authors">Ning Qiang, Qinglin Dong, Heng Huang, Han Wang, Shijie Zhao, Xintao Hu, Qing Li, Wei Zhang, Yiheng Liu, <strong>Mengshen He</strong>, Bao Ge, Lin Zhao, Zihao Wu, Lu Zhang, Steven Xu, Dajiang Zhu, Xi Jiang, Tianming Liu</p>
-    <p class="venue">Deep Learning for Medical Image Analysis: 395-423, 2024 <a class="doi" href="https://doi.org/10.1016/b978-0-32-385124-4.00025-8">DOI ↗</a></p>
+    <p class="venue">Elsevier, 2nd edition · Chapter 14: 395-423, 2024 · ISBN 9780323851244 <a class="doi" href="https://doi.org/10.1016/b978-0-32-385124-4.00025-8">Chapter DOI ↗</a></p>
   </li>
   </ol>
 </section>
