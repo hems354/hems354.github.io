@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }}</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  <meta name="theme-color" content="#4d7181">
+  <link rel="canonical" href="https://hems354.github.io/">
+  <link rel="stylesheet" href="{{ '/assets/css/profile.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="brand" href="#about" aria-label="Mengshen He, back to top">MH<span class="brand-dot">.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="#about">About</a><a href="#research">Research</a><a href="#publications">Publications</a><a href="#education">Background</a><a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="page-wrap">
+    {{ content }}
+  </main>
+  <footer class="site-footer page-wrap"><p>Mengshen He <span lang="zh-CN">贺孟申</span> · Central South University</p><p>Updated November 2026 <span aria-hidden="true">/</span> <a href="#about">Back to top ↑</a></p></footer>
+</body>
+</html>

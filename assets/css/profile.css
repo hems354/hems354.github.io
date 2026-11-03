@@ -1,0 +1,77 @@
+/* Palette follows the original CV. No external font or script dependencies. */
+:root{--accent:#4d7181;--accent-dark:#345565;--gold:#bd9d65;--ink:#24343d;--muted:#5c6b73;--line:#dce3e5;--paper:#fff;--wash:#f4f7f7;--max:1100px}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:105px}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Segoe UI","Microsoft YaHei",Arial,sans-serif;font-size:16px;line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-dark);text-decoration-thickness:1px;text-underline-offset:4px}
+a:hover{color:#7c5c2b}
+a:focus-visible{outline:3px solid var(--gold);outline-offset:5px;border-radius:2px}
+.page-wrap,.nav-wrap{max-width:var(--max);width:calc(100% - 80px);margin:0 auto}
+.skip-link{position:fixed;top:-100px;left:16px;background:white;padding:12px;z-index:20}
+.skip-link:focus{top:12px}
+.site-header{border-top:5px solid var(--accent);border-bottom:1px solid var(--line);background:rgba(255,255,255,.98);position:sticky;top:0;z-index:10}
+.nav-wrap{display:flex;align-items:center;justify-content:space-between;min-height:76px;gap:24px}
+.brand{font-family:Georgia,serif;font-weight:700;font-size:28px;letter-spacing:-2px;text-decoration:none;color:var(--accent-dark)}
+.brand-dot{color:var(--gold);letter-spacing:0}
+nav{display:flex;gap:26px;flex-wrap:wrap}
+nav a{font-size:13px;font-weight:600;text-decoration:none}
+.hero{display:grid;grid-template-columns:minmax(0,1fr) 245px;gap:68px;padding:78px 0 70px;border-bottom:3px solid var(--gold);align-items:center}
+.eyebrow,.section-number{font-size:11px;letter-spacing:1.8px;font-weight:700;color:var(--accent);margin:0 0 18px}
+h1,h2,h3,h4,p{margin-top:0}
+h1{font-family:Georgia,"Songti SC",serif;font-size:54px;font-weight:500;letter-spacing:-2px;line-height:1.14;margin-bottom:24px;color:var(--accent-dark)}
+h1 span{display:block;font-family:"Microsoft YaHei",sans-serif;font-size:25px;letter-spacing:5px;color:var(--muted);margin-top:15px}
+.position{font-weight:600;font-size:18px;margin-bottom:7px}
+.school{font-size:14px;color:var(--muted);line-height:1.7;margin-bottom:22px}
+.intro{font-size:16px;max-width:650px;margin-bottom:28px}
+.contact-links{display:flex;gap:10px 24px;align-items:center;flex-wrap:wrap;font-size:13px;font-weight:600}
+.contact-links a{text-decoration:none;display:inline-flex;align-items:center;gap:13px;padding:9px 0}
+.contact-links .primary-link{background:var(--accent);color:white;padding:10px 17px;border-radius:3px}
+.contact-links .primary-link:hover{background:var(--accent-dark)}
+.research-note{padding:30px 26px;background:var(--wash);border-top:3px solid var(--gold)}
+.monogram{font-family:Georgia,serif;font-size:61px;line-height:1;letter-spacing:-4px;color:var(--accent);border-bottom:1px solid var(--line);padding-bottom:27px;margin-bottom:27px}
+.monogram span{display:block;font:11px/1.4 "Microsoft YaHei",sans-serif;letter-spacing:4px;margin-top:13px}
+.research-note .eyebrow{font-size:10px;margin-bottom:13px}
+.research-note p:not(.eyebrow){font-family:Georgia,serif;font-size:19px;line-height:1.6;margin-bottom:22px}
+.research-note a{font-size:11px;font-weight:600;text-decoration:none}
+.section{padding:56px 0;border-bottom:1px solid var(--line)}
+.section-heading{margin-bottom:26px}
+.section-number{margin-bottom:10px}
+h2{font-family:Georgia,"Microsoft YaHei",serif;font-weight:500;letter-spacing:-.6px;font-size:31px;line-height:1.25;margin-bottom:0}
+.research-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:30px}
+.research-grid article{border-top:1px solid var(--line);padding-top:20px}
+.topic-number{font-size:12px;color:#82663b;display:block;margin-bottom:12px;font-family:Georgia,serif}
+.research-grid h3{font-size:16px;margin-bottom:10px}
+.research-grid p{font-size:14px;color:var(--muted);margin:0}
+.section-intro{font-size:13px;color:var(--muted);max-width:720px;margin-bottom:30px}
+.group-title{font-size:17px;font-weight:600;padding:13px 0;border-bottom:2px solid var(--accent);margin:28px 0 0}
+.publications{list-style:none;padding:0;margin:0}
+.publication{padding:24px 0 24px 73px;position:relative;border-bottom:1px solid var(--line)}
+.publication:last-child{border-bottom:0}
+.pub-meta{font-size:12px;line-height:1.8;color:var(--accent);margin-bottom:7px}
+.pub-meta>span:first-child{position:absolute;left:0;top:26px;font-size:15px;font-family:Georgia,serif;font-weight:700}
+.role{display:inline-block;border:1px solid #cfdddf;color:var(--accent-dark);padding:0 8px;border-radius:2px;font-size:10px;letter-spacing:.4px}
+.publication h4{font-size:16px;line-height:1.55;font-weight:600;margin:0 0 8px}
+.publication h4 a{color:var(--ink);text-decoration:none}
+.publication h4 a:hover{text-decoration:underline;color:var(--accent-dark)}
+.authors{font-size:12px;line-height:1.8;color:var(--muted);margin-bottom:7px}
+.authors strong{color:var(--accent-dark);font-weight:700}
+.venue{font-size:12px;color:var(--accent-dark);margin-bottom:0}
+.doi{font-size:10px;margin-left:12px;white-space:nowrap}
+.timeline article{display:grid;grid-template-columns:160px 1fr;padding:24px 0;border-top:1px solid var(--line);gap:20px}
+.period{font-size:13px;font-weight:600;color:var(--accent);margin-bottom:0}
+.timeline h3{font-size:16px;margin-bottom:5px;line-height:1.5}
+.timeline h3 span{font-size:12px;font-weight:400;color:var(--muted);margin-left:10px;white-space:nowrap}
+.timeline p:not(.period){font-size:13px;margin-bottom:2px}
+.muted{color:var(--muted)}
+.contact-section{display:grid;grid-template-columns:1fr 1fr;gap:30px;align-items:center}
+.contact-section h2{margin-bottom:12px}
+.contact-section p:not(.section-number){font-size:13px;color:var(--muted);margin-bottom:0}
+.contact-addresses>a{font-size:18px;overflow-wrap:anywhere}
+.contact-addresses p{margin-top:12px;line-height:2}
+.site-footer{display:flex;justify-content:space-between;gap:20px;padding-top:26px;padding-bottom:34px;color:var(--muted);font-size:11px}
+.site-footer p{margin:0}.site-footer span[aria-hidden]{padding:0 10px}
+@media(min-width:1500px){.hero{padding-top:92px;padding-bottom:84px}}
+@media(max-width:800px){.page-wrap,.nav-wrap{width:calc(100% - 48px)}.hero{grid-template-columns:minmax(0,1fr) 190px;gap:30px;padding:52px 0}.research-note{padding:24px 20px}h1{font-size:43px}.research-grid{gap:20px}nav{gap:15px}.timeline article{grid-template-columns:130px 1fr}}
+@media(max-width:600px){html{scroll-padding-top:135px}.page-wrap,.nav-wrap{width:calc(100% - 36px)}.nav-wrap{align-items:flex-start;flex-direction:column;gap:6px;padding:10px 0 13px;min-height:0}.brand{font-size:24px}nav{gap:10px 17px}nav a{font-size:11px}.hero{grid-template-columns:1fr;gap:28px;padding:40px 0}.hero .eyebrow{font-size:9px;letter-spacing:1.2px}h1{font-size:44px}h1 span{font-size:22px}.position{font-size:16px}.intro{font-size:15px}.research-note{display:none}.contact-links{font-size:12px;gap:9px 19px}.section{padding:37px 0}h2{font-size:27px}.research-grid{grid-template-columns:1fr;gap:24px}.research-grid article{padding-top:15px}.topic-number{margin-bottom:6px}.publication{padding:22px 0 22px 45px}.pub-meta>span:first-child{font-size:13px;top:24px}.publication h4{font-size:15px}.authors,.venue{font-size:11px}.timeline article{grid-template-columns:1fr;gap:8px;padding:21px 0}.timeline h3 span{display:block;margin-left:0}.contact-section{grid-template-columns:1fr;gap:20px}.site-footer{flex-direction:column;gap:8px;font-size:10px}.contact-addresses>a{font-size:17px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{.site-header,.contact-links,.skip-link,.research-note{display:none}.page-wrap{width:100%;max-width:none}.hero{display:block;padding:0 0 20px}.section{padding:20px 0}.publication,.timeline article{break-inside:avoid}a{color:inherit}.site-footer{padding-bottom:0}}
