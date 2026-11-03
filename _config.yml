@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+title: Mengshen He | 贺孟申
+description: Brain networks, hypergraph learning, and medical image analysis.
+url: https://hems354.github.io
+baseurl: ""
+exclude:
+  - phd-cv
+  - backup
+  - tmp
+  - output
+  - github-site
+  - README.md
+  - 贺孟申硕士简历.pdf
