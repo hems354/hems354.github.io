@@ -15,7 +15,6 @@ description: Ph.D. student at Central South University. Research in brain networ
     <div class="contact-links">
       <a class="primary-link" href="mailto:mengshen_he@csu.edu.cn">Email me <span aria-hidden="true">↗</span></a>
       <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
-      <a href="https://github.com/hems354">GitHub <span aria-hidden="true">↗</span></a>
     </div>
   </div>
   <aside class="research-note" aria-label="Profile photo and research focus">
