@@ -10,11 +10,11 @@ description: Ph.D. student at Central South University. Research in brain networ
     <h1 id="profile-name">Mengshen He <span lang="zh-CN">贺孟申</span></h1>
     <p class="position">Ph.D. Student in Computer Science and Technology</p>
     <p class="school">School of Computer Science and Engineering<br>Central South University · 2023–present</p>
-    <p class="advisor">Ph.D. advisor: Prof. Jianxin Wang <span lang="zh-CN">（王建新教授）</span></p>
+    <p class="advisor">Ph.D. advisor: Prof. Jianxin Wang <span lang="zh-CN">（王建新教授）</span><br>Master's advisor: Prof. Bao Ge <span lang="zh-CN">（葛宝教授）</span></p>
     <p class="intro">I study how machine learning can help us understand brain networks and analyze medical images. My research focuses on functional brain mapping, hypergraph learning for brain disorder diagnosis, and learning from multimodal medical data.</p>
     <div class="contact-links">
       <a class="primary-link" href="mailto:mengshen_he@csu.edu.cn">Email me <span aria-hidden="true">↗</span></a>
-      <a href="https://scholar.google.com.hk/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
+      <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
       <a href="https://github.com/hems354">GitHub <span aria-hidden="true">↗</span></a>
     </div>
   </div>
@@ -37,7 +37,8 @@ description: Ph.D. student at Central South University. Research in brain networ
 
 <section id="publications" class="section" aria-labelledby="publications-title">
   <div class="section-heading"><p class="section-number">02 / PUBLICATIONS</p><h2 id="publications-title">Selected publications</h2></div>
-  <p class="section-intro">My name is highlighted in bold. Journal and conference versions are listed separately. <a href="https://scholar.google.com.hk/citations?user=B_5iPLgAAAAJ&amp;hl=en">View Google Scholar ↗</a></p>
+  <p class="publication-summary">I have co-authored more than 20 papers in international journals and conferences, including IEEE JBHI, IEEE TNB, Cerebral Cortex, Medical Physics, and MICCAI. My work has received <strong>1,994 citations</strong> on <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">Google Scholar</a> (as of November 3, 2026).</p>
+  <p class="section-intro">My name is highlighted in bold. Journal and conference versions are listed separately. <a href="https://scholar.google.com/citations?user=B_5iPLgAAAAJ&amp;hl=en">View Google Scholar ↗</a></p>
   <h3 class="group-title">First &amp; co-first author</h3>
   <ol class="publications">
   <li class="publication">
@@ -146,8 +147,19 @@ description: Ph.D. student at Central South University. Research in brain networ
     <p class="venue">中南大学学报（医学版）, 47(8): 981-993, 2022 <a class="doi" href="https://doi.org/10.11817/j.issn.1672-7347.2022.220376">DOI ↗</a></p>
   </li>
   </ol>
-  <h3 class="group-title">Book chapter</h3>
+  <h3 class="group-title">Books &amp; book chapters</h3>
   <ol class="publications">
+  <li class="publication">
+    <div class="pub-meta"><span>2026</span><span class="role">Contributing author</span></div>
+    <h4><a href="https://www.routledge.com/AI-in-MRI-based-Brain-Disease-Prediction/Liu-Wang-Pan/p/book/9781032828718">AI in MRI-based Brain Disease Prediction</a></h4>
+    <p class="authors">Edited by Jin Liu, Jianxin Wang, and Yi Pan. <strong>Mengshen He</strong> contributed to the following chapters:</p>
+    <ul class="chapter-contributions">
+      <li>Technical Foundations</li>
+      <li>Alzheimer's Disease Diagnosis Methods Based on Biomedical Data</li>
+      <li>Applications of Hypergraph Learning for Brain Disorder Diagnosis with Neuroimaging: A Survey</li>
+    </ul>
+    <p class="venue">CRC Press, 1st edition, 2026 · ISBN 9781032828718</p>
+  </li>
   <li class="publication">
     <div class="pub-meta"><span>2024</span></div>
     <h4><a href="https://doi.org/10.1016/b978-0-32-385124-4.00025-8">Deep learning in functional brain mapping and associated applications</a></h4>
@@ -157,17 +169,26 @@ description: Ph.D. student at Central South University. Research in brain networ
   </ol>
 </section>
 
+<section id="service" class="section" aria-labelledby="service-title">
+  <div class="section-heading"><p class="section-number">03 / SERVICE</p><h2 id="service-title">Academic service</h2></div>
+  <ul class="service-list">
+    <li>Reviewer, <em>Pattern Recognition</em> (PR)</li>
+    <li>Reviewer, <em>IEEE Journal of Biomedical and Health Informatics</em> (JBHI)</li>
+    <li>Reviewer, International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</li>
+  </ul>
+</section>
+
 <section id="education" class="section" aria-labelledby="education-title">
-  <div class="section-heading"><p class="section-number">03 / BACKGROUND</p><h2 id="education-title">Education &amp; experience</h2></div>
+  <div class="section-heading"><p class="section-number">04 / BACKGROUND</p><h2 id="education-title">Education &amp; experience</h2></div>
   <div class="timeline">
     <article><p class="period">2023–present</p><div><h3>Central South University <span lang="zh-CN">中南大学</span></h3><p>Ph.D. student · Computer Science and Technology</p><p class="muted">School of Computer Science and Engineering</p><p class="muted">Ph.D. advisor: Prof. Jianxin Wang <span lang="zh-CN">（王建新教授）</span></p></div></article>
-    <article><p class="period">2020–2023</p><div><h3>Shaanxi Normal University <span lang="zh-CN">陕西师范大学</span></h3><p>M.Eng. · Signal and Information Processing</p><p class="muted">Master's advisor: Prof. Bao Ge</p></div></article>
+    <article><p class="period">2020–2023</p><div><h3>Shaanxi Normal University <span lang="zh-CN">陕西师范大学</span></h3><p>M.Eng. · Signal and Information Processing</p><p class="muted">Master's advisor: Prof. Bao Ge <span lang="zh-CN">（葛宝教授）</span></p></div></article>
     <article><p class="period">2014–2018</p><div><h3>Northeast Normal University <span lang="zh-CN">东北师范大学</span></h3><p>B.Eng. · Electrical Engineering and Automation</p></div></article>
     <article><p class="period">2018.07–2019.05</p><div><h3>BOE Technology Group <span lang="zh-CN">武汉京东方</span></h3><p>AOI Equipment Engineer</p></div></article>
   </div>
 </section>
 
 <section id="contact" class="section contact-section" aria-labelledby="contact-title">
-  <div><p class="section-number">04 / CONTACT</p><h2 id="contact-title">Get in touch</h2><p>For research discussions and academic correspondence.</p></div>
+  <div><p class="section-number">05 / CONTACT</p><h2 id="contact-title">Get in touch</h2><p>For research discussions and academic correspondence.</p></div>
   <div class="contact-addresses"><a href="mailto:mengshen_he@csu.edu.cn">mengshen_he@csu.edu.cn ↗</a><p>Also: <a href="mailto:hems@snnu.edu.cn">hems@snnu.edu.cn</a><br><a href="mailto:1094617242@qq.com">1094617242@qq.com</a></p></div>
 </section>
