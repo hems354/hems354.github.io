@@ -10,6 +10,7 @@ description: Ph.D. student at Central South University. Research in brain networ
     <h1 id="profile-name">Mengshen He <span lang="zh-CN">贺孟申</span></h1>
     <p class="position">Ph.D. Student in Computer Science and Technology</p>
     <p class="school">School of Computer Science and Engineering<br>Central South University · 2023–present</p>
+    <p class="advisor">Ph.D. advisor: Prof. Jianxin Wang <span lang="zh-CN">（王建新教授）</span></p>
     <p class="intro">I study how machine learning can help us understand brain networks and analyze medical images. My research focuses on functional brain mapping, hypergraph learning for brain disorder diagnosis, and learning from multimodal medical data.</p>
     <div class="contact-links">
       <a class="primary-link" href="mailto:mengshen_he@csu.edu.cn">Email me <span aria-hidden="true">↗</span></a>
@@ -17,8 +18,8 @@ description: Ph.D. student at Central South University. Research in brain networ
       <a href="https://github.com/hems354">GitHub <span aria-hidden="true">↗</span></a>
     </div>
   </div>
-  <aside class="research-note" aria-label="Research focus">
-    <div class="monogram" aria-hidden="true">MH<span>贺孟申</span></div>
+  <aside class="research-note" aria-label="Profile photo and research focus">
+    <img class="profile-photo" src="assets/images/hms.jpg" alt="Portrait of Mengshen He (贺孟申)" width="1500" height="2000" decoding="async" fetchpriority="high">
     <p class="eyebrow">RESEARCH FOCUS</p>
     <p>Brain networks.<br>Higher-order learning.<br>Medical imaging.</p>
     <a href="#research">Explore my research ↓</a>
@@ -159,7 +160,7 @@ description: Ph.D. student at Central South University. Research in brain networ
 <section id="education" class="section" aria-labelledby="education-title">
   <div class="section-heading"><p class="section-number">03 / BACKGROUND</p><h2 id="education-title">Education &amp; experience</h2></div>
   <div class="timeline">
-    <article><p class="period">2023–present</p><div><h3>Central South University <span lang="zh-CN">中南大学</span></h3><p>Ph.D. student · Computer Science and Technology</p><p class="muted">School of Computer Science and Engineering</p></div></article>
+    <article><p class="period">2023–present</p><div><h3>Central South University <span lang="zh-CN">中南大学</span></h3><p>Ph.D. student · Computer Science and Technology</p><p class="muted">School of Computer Science and Engineering</p><p class="muted">Ph.D. advisor: Prof. Jianxin Wang <span lang="zh-CN">（王建新教授）</span></p></div></article>
     <article><p class="period">2020–2023</p><div><h3>Shaanxi Normal University <span lang="zh-CN">陕西师范大学</span></h3><p>M.Eng. · Signal and Information Processing</p><p class="muted">Master's advisor: Prof. Bao Ge</p></div></article>
     <article><p class="period">2014–2018</p><div><h3>Northeast Normal University <span lang="zh-CN">东北师范大学</span></h3><p>B.Eng. · Electrical Engineering and Automation</p></div></article>
     <article><p class="period">2018.07–2019.05</p><div><h3>BOE Technology Group <span lang="zh-CN">武汉京东方</span></h3><p>AOI Equipment Engineer</p></div></article>
