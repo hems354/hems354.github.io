@@ -209,6 +209,7 @@ description: Ph.D. student at Central South University. Research in brain networ
     <li>Reviewer, <em>Pattern Recognition</em> (PR)</li>
     <li>Reviewer, <em>IEEE Journal of Biomedical and Health Informatics</em> (JBHI)</li>
     <li>Reviewer, International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</li>
+    <li>Reviewer, International Conference on Information Processing in Medical Imaging (IPMI)</li>
   </ul>
 </section>
 
